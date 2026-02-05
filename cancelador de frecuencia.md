@@ -1,3 +1,3 @@
 layout: page
-title: https://github.com/juande-ops/cancelador-de-frecuencias-bluetooth.git/about/contact
+title: juande-ops.github.io/about/contact
 permalink: /URL-PATH
